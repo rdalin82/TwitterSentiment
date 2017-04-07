@@ -7,7 +7,7 @@ Small application that leverages OTP design patterns and twitter streaming api t
 ```
 > Runner.run("apples")
 > Runner.stats
-{apples: 5}
+[{apples: 5}]
 
 ```
 # Installation
